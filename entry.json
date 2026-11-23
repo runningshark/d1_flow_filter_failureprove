@@ -1,0 +1,12 @@
+{
+ "module": "s05_flow_breakout",
+ "baseline": "s02_breakout",
+ "params": {},
+ "grid": [
+  {"flow_days": 1, "flow_norm": 30}, {"flow_days": 1, "flow_norm": 90},
+  {"flow_days": 3, "flow_norm": 30}, {"flow_days": 3, "flow_norm": 90},
+  {"flow_days": 7, "flow_norm": 30}, {"flow_days": 7, "flow_norm": 90},
+  {"flow_days": 14, "flow_norm": 30}, {"flow_days": 14, "flow_norm": 90},
+  {"flow_days": 30, "flow_norm": 30}, {"flow_days": 30, "flow_norm": 90}
+ ]
+}
